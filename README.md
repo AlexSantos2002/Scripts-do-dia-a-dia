@@ -24,3 +24,7 @@ Aqui estão alguns dos scripts disponíveis neste repositório:
 ### 4. **YtVideosDownloader.ps1**
    - **Descrição**: Baixar videos do youtube
    - **Funcionalidade**: Através de um link dado o script baixa o video ou playlist na melhor qualidade disponivel
+
+### 5. **Music.ps1**
+  - Descrição: Baixar áudio de vídeos do YouTube
+  - Funcionalidade: Através de um link fornecido, o script baixa o áudio do vídeo do YouTube (em sua melhor qualidade disponível) e o salva na pasta Musics na área de trabalho. O script organiza o áudio nas subpastas com o nome do uploader (artista ou canal), e o arquivo será salvo com o título do vídeo. O script fica aguardando novos links até que o comando close seja inserido, encerrando o processo.
